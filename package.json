@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "build": "node --check script.js",
+    "test": "node test.js"
+  }
+}
